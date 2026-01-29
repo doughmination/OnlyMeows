@@ -1,0 +1,11 @@
+services:
+  onlymeows:
+    build: .
+    container_name: onlymeows
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./data:/app/data
+      - ./.env:/app/.env:ro
+      - ./.env.keys:/app/.env.keys:ro
