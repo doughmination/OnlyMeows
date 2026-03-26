@@ -1,8 +1,8 @@
 # The Estrogen Source-Available Licence
 
-**Version 1.3**
+**Version 1.4**
 
-This Licence may be referred to as the **Estrogen Source-Available Licence (ESAL)**. This specific version may be referred to as **ESAL‑1.3**.
+This Licence may be referred to as the **Estrogen Source-Available Licence (ESAL)**. This specific version may be referred to as **ESAL‑1.4**.
 
 Copyright © 2026 Clove Nytrix Doughmination Twilight.
 
@@ -55,17 +55,26 @@ Any individual or organisation wishing to use the Software for a commercial purp
 
 Requests for commercial licensing must be made via email to:
 
-**[admin@clovelib.win](mailto:admin@clovelib.win)**
+**[admin@doughmination.win](mailto:admin@doughmination.win)**
 
 Commercial licence terms may include fees, revenue-sharing arrangements, usage limitations, or other conditions, and are granted solely at the discretion of Clove Nytrix Doughmination Twilight.
 
+---
+
 ### 4.2 Pre-Authorised Commercial Licensees
 
-Clove Nytrix Doughmination Twilight may maintain a file named **allowed_people.md** listing individuals or organisations that have been granted permission to use the Software commercially.
+Clove Nytrix Doughmination Twilight may grant commercial licences to specific individuals or organisations through written authorisation.
 
-If **allowed_people.md** is present and lists a party, that listing constitutes evidence of an active commercial licence, subject to any terms specified therein.
+Records of such authorisations may be maintained within an official **LICENCING repository** or other designated licensing directory maintained by Clove Nytrix Doughmination Twilight.
 
-If **allowed_people.md** does **not** exist, or if a party is not listed within it, **no commercial licence is granted**, and commercial use remains prohibited.
+Where a party is explicitly identified within that repository or directory as having been granted commercial rights, that record constitutes evidence of an active commercial licence, subject to any terms specified in the relevant document.
+
+If a party is **not** listed within the official licensing repository or accompanying authorisation documents, **no commercial licence is granted**, and commercial use of the Software remains prohibited.
+
+> The official LICENCING repository is maintained by Clove Nytrix Doughmination Twilight and may be referenced within project documentation or licence notices.
+
+Official licensing records:
+https://github.com/doughmination/licencing
 
 ---
 
@@ -153,3 +162,17 @@ Upon revocation, all commercial use of the Software must cease immediately unles
 ## 12. Governing Law (Trademark Matters)
 
 All matters relating to trademarks, Trademarked Components, and trademark enforcement under this Licence shall be governed by and construed in accordance with the laws of **England and Wales**, without regard to conflict-of-law principles.
+
+---
+
+## 13. Derivative Licences
+
+Creation of a licence derived from, based upon, or substantially similar to this Licence (the **Estrogen Source-Available Licence**) is permitted **only with prior written permission** from Clove Nytrix Doughmination Twilight.
+
+Where such permission has been granted, any derivative licence must include clear attribution stating that it is **derived from or based on the Estrogen Source-Available Licence (ESAL)** and must credit **Clove Nytrix Doughmination Twilight** as the original author of the base licence.
+
+Attribution must appear in a reasonably visible location within the derivative licence text, such as within the header, preamble, or licence notice.
+
+Permission to create a derivative licence may include additional terms, conditions, or limitations as specified in the written authorisation.
+
+Nothing in this section grants permission to create derivative licences without such written authorisation.
